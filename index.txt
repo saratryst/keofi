@@ -1,4 +1,4 @@
-Keofi - Great coffee good vibes
+Vibes Coffee Roaster - Great coffee good vibes
 
 This is a coffee shop html template made by codewithsadee
 
@@ -19,7 +19,7 @@ Opening Hours :
 Location :
 55 Main Street, New York
 
-alt = keofi home
+alt = Vibes Coffee Roaster home
 
 Home
 About
@@ -35,7 +35,7 @@ aria-label = open menu
 
 #---------- HERO ----------#
 
-Welcome to the keofi
+Welcome to the Vibes Coffee Roaster
 
 Great Coffee Good Vibes
 
@@ -166,7 +166,7 @@ Booking Table
 #---------- FOOTER ----------#
 
 
-alt = Keofi home
+alt = Vibes Coffee Roaster home
 
 Working Hours
 
@@ -186,7 +186,7 @@ Location :
 
 <ion-icon name="mail-unread-outline" aria-hidden="true"></ion-icon>
 Email Address :
-keofi@gmail.com
+Vibes Coffee Roaster@gmail.com
 
 <ion-icon name="call-outline" aria-hidden="true"></ion-icon>
 Phone Number :
